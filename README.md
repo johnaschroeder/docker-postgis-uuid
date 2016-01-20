@@ -6,6 +6,7 @@ Docker image which adds uuid support to the mdillon/postgis image
 ```shell
 docker pull schemamapper/postgresql-postgis-uuid
 docker run -d -p 5432:5432 schemamapper/postgresql-postgis-uuid
+```
 
 ## usage with docker compose
 
